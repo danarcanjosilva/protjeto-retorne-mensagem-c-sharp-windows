@@ -1,0 +1,20 @@
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.exe.config
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.exe
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.pdb
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csprojAssemblyReference.cache
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.Form1.resources
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.Properties.Resources.resources
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csproj.GenerateResource.cache
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.exe
+C:\Users\Marta Arcanjo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.pdb
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.exe.config
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.exe
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.pdb
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.Form1.resources
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.Properties.Resources.resources
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csproj.GenerateResource.cache
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.exe
+C:\Users\daniel\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.pdb
